@@ -1,8 +1,10 @@
 # Answers
 
-| Part 1 | Part 2 |
-|--------|--------|
-|   `74` | `1795` |
+ Part 1 
+ `74`
+ 
+Part 2 
+ `1795` 
 
 ## --- Day 1: Not Quite Lisp ---
 
