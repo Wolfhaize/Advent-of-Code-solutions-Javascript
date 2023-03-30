@@ -1,13 +1,13 @@
 const input = require('./input');
 
 let input_areas =  input.map(box => {
-    let [s1, s2, s3] = box.split('x').map(n => +n);
+    let [a1, a2, a3] = box.split('x').map(n => +n);
 
     //`2*l*w + 2*w*h + 2*h*l`
 
-    let a = s1 * s2;
-    let b = s1 * s3;
-    let c = s2 * s3;
+    let a = a1 * a2;
+    let b = a1 * a3;
+    let c = a2 * a3;
 
     let min_side = Math.min((a, b, c));
     
