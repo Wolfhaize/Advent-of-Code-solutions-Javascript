@@ -1,8 +1,10 @@
 # Answers
 
-|  Part 1   |  Part 2   |
-|-----------|-----------|
-| `1588178` | `3783758` |
+  Part 1   
+ `1588178` 
+ |
+ Part 2   
+`3783758` 
 
 ## --- Day 2: I Was Told There Would Be No Math ---
 
